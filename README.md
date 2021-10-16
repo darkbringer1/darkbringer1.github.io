@@ -3,11 +3,7 @@
 StarWars characters open-source REST API
 
 ### base url
-`https://akabab.github.io/starwars-api/api`
-
-or cached CDN (faster)
-
-`https://rawcdn.githack.com/akabab/starwars-api/0.2.1/api`
+`https://darkbringer1.github.io/api`
 
 
 ### [routes](#routes-1)
@@ -21,12 +17,12 @@ or cached CDN (faster)
 ##### `/all.json`
 GET all characters as a single JSON object
 
-eg. [`/all.json`](https://akabab.github.io/starwars-api/api/all.json)
+eg. [`/all.json`](https://darkbringer1.github.io/api/all.json)
 
 ##### `/id`
 GET character complete informations by id
 
-eg. [`/id/1.json`](https://akabab.github.io/starwars-api/api/id/1.json)
+eg. [`/id/1.json`](https://darkbringer1.github.io/api/id/1.json)
 ```json
 {
   "id": 1,
