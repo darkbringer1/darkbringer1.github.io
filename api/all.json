@@ -1,4 +1,5 @@
-"result" : [
+{
+  "result" : [
   {
     "id": 1,
     "name": "Luke Skywalker",
@@ -2132,3 +2133,4 @@
     "formerAffiliations": []
   }
 ]
+}
